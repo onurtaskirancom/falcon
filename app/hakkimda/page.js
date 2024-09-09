@@ -8,7 +8,7 @@ export default function Hakkimda() {
           <div className="w-80 h-72 relative overflow-hidden rounded-3xl">
             <Image
               src="/images/mehmet-sahin-hakkimda.jpg"
-              alt="Profil fotoğrafı"
+              alt="Mehmet Şahin Profil fotoğrafı"
               layout="fill"
               objectFit="cover"
               className="rounded-3xl"
@@ -19,13 +19,13 @@ export default function Hakkimda() {
               Hakkımda
             </h1>
             <p className="text-xl text-gray-700 dark:text-gray-300 mb-6">
-              Merhaba! Ben Mehmet Şahin, tutkulu bir dünya gezginiyim. İstanbul'da doğup büyüdüm, ancak kalbim her zaman yeni yerler keşfetmek, farklı kültürleri tanımak ve unutulmaz anılar biriktirmek için attı.
+              Merhaba! Ben Mehmet Şahin, 28 yaşında tutkulu bir dünya gezginiyim. İstanbul'da doğup büyüdüm, ancak kalbim her zaman yeni yerler keşfetmek, farklı kültürleri tanımak ve unutulmaz anılar biriktirmek için attı.
             </p>
             <p className="text-xl text-gray-700 dark:text-gray-300 mb-6">
               Seyahat etmek benim için sadece bir hobi değil, aynı zamanda bir yaşam tarzı. Şimdiye kadar 30'dan fazla ülke gezdim ve her biri bana benzersiz deneyimler, ilham verici hikayeler ve hayat boyu sürecek dostluklar kazandırdı. Yerel mutfakları keşfetmekten, tarihi yerleri ziyaret etmeye, doğa harikalarını görmeye kadar her anın tadını çıkarıyorum.
             </p>
             <p className="text-xl text-gray-700 dark:text-gray-300">
-              Seyahatlerimde yaşadığım maceraları, keşfettiğim gizli kalmış yerleri, tanıştığım ilginç insanları ve tattığım lezzetleri insanlarla paylaşmayı seviyorum. Amacım, deneyimlerimle size ilham vermek, pratik seyahat ipuçları sunmak ve belki de sizi kendi seyahat maceranızı planlamaya teşvik etmek. Benimle birlikte dünyanın güzelliklerini keşfetmeye hazır mısınız?
+              Bu blog, seyahatlerimde yaşadığım maceraları, keşfettiğim gizli kalmış yerleri, tanıştığım ilginç insanları ve tattığım lezzetleri sizlerle paylaşmak için oluşturduğum bir platform. Amacım, deneyimlerimle size ilham vermek, pratik seyahat ipuçları sunmak ve belki de sizi kendi seyahat maceranızı planlamaya teşvik etmek. Benimle birlikte dünyanın güzelliklerini keşfetmeye hazır mısınız?
             </p>
           </div>
         </div>

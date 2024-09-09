@@ -1,6 +1,5 @@
-import Image from "next/image";
-import Link from "next/link";
-
+import Image from 'next/image';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -11,8 +10,8 @@ export default function Home() {
             Dünyayı Keşfeden Gezgin
           </h1>
           <p className="mt-5 text-xl">
-            Merhaba! Ben Mehmet Şahin, tutkulu bir dünya gezginiyim. Her yeni yer,
-            her yeni kültür benim için yeni bir macera.
+            Merhaba! Ben Mehmet Şahin, tutkulu bir dünya gezginiyim. Her yeni
+            yer, her yeni kültür benim için yeni bir macera.
           </p>
         </div>
 
@@ -28,23 +27,23 @@ export default function Home() {
 
         <div className="mt-10 space-y-10">
           <div>
-            <h2 className="text-2xl font-bold">
-              Son Maceralarım
-            </h2>
+            <h2 className="text-2xl font-bold">Son Maceralarım</h2>
             <ul className="mt-4 list-disc list-inside">
-              <li>Inka İmparatorluğu'nun izinde: Machu Picchu'ya yolculuk</li>
-              <li>Japonya'nın arka sokaklarında kaybolmak</li>
+              <li>
+                Inka İmparatorluğu&apos;nun izinde: Machu Picchu&apos;ya
+                yolculuk
+              </li>
+              <li>Japonya&apos;nın arka sokaklarında kaybolmak</li>
               <li>Fas çöllerinde deve sırtında gün batımı</li>
             </ul>
           </div>
 
           <div>
-            <h2 className="text-2xl font-bold">
-              Gelecek Planlarım
-            </h2>
+            <h2 className="text-2xl font-bold">Gelecek Planlarım</h2>
             <p className="mt-4">
-              Sıradaki durağım Güneydoğu Asya! Tayland'ın egzotik plajlarından
-              Vietnam'ın dağlık bölgelerine uzanan bir rota planlıyorum.
+              Sıradaki durağım Güneydoğu Asya! Tayland&apos;ın egzotik
+              plajlarından Vietnam&apos;ın dağlık bölgelerine uzanan bir rota
+              planlıyorum.
             </p>
           </div>
 
