@@ -37,7 +37,7 @@ export default function Navbar() {
                   height={50}
                   className="bg-transparent mr-2"
                 />
-                <span className="font-semibold text-gray-700 dark:text-white text-lg">Mehmet Şahin</span>
+                <span className="font-semibold text-gray-700 dark:text-white text-3xl">Mehmet Şahin</span>
               </Link>
             </div>
           </div>

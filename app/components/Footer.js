@@ -28,7 +28,7 @@ export default function Footer() {
               <FaFacebook size={24} />
             </Link>
             <Link
-              href="https://twitter.com"
+              href="https://twitter.com/sahinmehmet90"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-blue-400 dark:text-gray-300 dark:hover:text-blue-300"
